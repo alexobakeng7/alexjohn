@@ -1,2 +1,2 @@
 # alexjohn
-Clothing store
+Alex Fashion Store
