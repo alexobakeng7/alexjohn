@@ -1,2 +1,2 @@
-# alexjone
+# alexjohn
 Clothing store
